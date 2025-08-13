@@ -58,7 +58,7 @@ Step 6. Finish Setup
 <img width="1920" height="1080" alt="Screenshot 2025-08-13 092610" src="https://github.com/user-attachments/assets/c44f9468-be86-4f8a-a750-a67195270a8e" />
 
 
-### Step 2:
+### INSTALLING KALI LINUX:
 
 Create a new virtual machine in VMware using the Kali Linux ISO, configure the hardware settings, and complete the installation of Kali Linux.
 
@@ -75,6 +75,8 @@ Step 2: Download Kali Linux VirtualBox Image
 https://cdimage.kali.org/kali-2024.4/kali-linux-2024.4-virtualbox-amd64.7z
 
 • Download the .7z file (Kali Linux VirtualBox image)
+<img width="569" height="229" alt="Screenshot 2025-08-13 093527" src="https://github.com/user-attachments/assets/c4af96e1-f93f-417c-80f0-b6a4945e1d6f" />
+
 
 Step 3: Extract the File
 
@@ -91,6 +93,8 @@ Step 4: Import Kali Linux into VirtualBox
 • Open VirtualBox
 
 • Click on File → Import Appliance
+<img width="1920" height="1080" alt="Screenshot 2025-08-13 093606" src="https://github.com/user-attachments/assets/4301bb10-8d4a-40e3-b9e5-bb2f55bba205" />
+
 
 • Click Choose, then browse to the extracted .vbox file
 
@@ -105,8 +109,21 @@ Step 5: Start Kali Linux
 • Once imported, you will see "Kali Linux" in the left panel
 
 • Select it and click Start and the Kali Linux will boot up
+<img width="1280" height="800" alt="VirtualBox_kalilinux_13_08_2025_09_32_16" src="https://github.com/user-attachments/assets/900178a3-9c7f-4ec2-a578-014609c3b2db" />
+<img width="1920" height="936" alt="VirtualBox_kalilinux_13_08_2025_09_34_43" src="https://github.com/user-attachments/assets/09604d18-5e37-4ca4-bef4-3c3957c70153" />
+<img width="1920" height="936" alt="VirtualBox_kalilinux_13_08_2025_13_02_08" src="https://github.com/user-attachments/assets/39ddbcde-f9e4-454a-8c46-cb20872004d0" />
+Step 6: Use the Terminal in Kali Linux
 
-### Step 3:
+• After login (default username: kali, password: kali)
+
+• Open the Terminal (black monitor icon)
+
+• Try the basic Linux commands:
+<img width="1920" height="936" alt="VirtualBox_kalilinux_13_08_2025_09_34_43" src="https://github.com/user-attachments/assets/8bb312e4-3a59-42d7-b96e-c1ee73e98698" />
+
+
+
+### INSTALLING SLEUTH KIT:
 
 Open the terminal in Kali Linux and run the command sudo apt install sleuthkit to install Sleuth Kit.
 
