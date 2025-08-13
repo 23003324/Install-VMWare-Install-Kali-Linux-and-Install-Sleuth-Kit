@@ -31,6 +31,8 @@ Step 2. Run the Installer
 Step 3. Installer Wizard
 
 • Click Next
+<img width="1920" height="1080" alt="Screenshot 2025-08-13 135716" src="https://github.com/user-attachments/assets/39b5b995-3d74-43af-90f0-2832d259a3ad" />
+
 
 • Keep default settings unless you want to change install location or features
 
