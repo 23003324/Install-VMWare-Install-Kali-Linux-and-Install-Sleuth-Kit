@@ -109,8 +109,9 @@ Step 5: Start Kali Linux
 • Once imported, you will see "Kali Linux" in the left panel
 
 • Select it and click Start and the Kali Linux will boot up
+<img width="640" height="480" alt="VirtualBox_kalilinux_13_08_2025_13_52_06" src="https://github.com/user-attachments/assets/00a578ff-6ed7-430c-88fa-a2b94846dd7a" />
+
 <img width="1280" height="800" alt="VirtualBox_kalilinux_13_08_2025_09_32_16" src="https://github.com/user-attachments/assets/900178a3-9c7f-4ec2-a578-014609c3b2db" />
-<img width="1920" height="936" alt="VirtualBox_kalilinux_13_08_2025_09_34_43" src="https://github.com/user-attachments/assets/09604d18-5e37-4ca4-bef4-3c3957c70153" />
 <img width="1920" height="936" alt="VirtualBox_kalilinux_13_08_2025_13_02_08" src="https://github.com/user-attachments/assets/39ddbcde-f9e4-454a-8c46-cb20872004d0" />
 Step 6: Use the Terminal in Kali Linux
 
