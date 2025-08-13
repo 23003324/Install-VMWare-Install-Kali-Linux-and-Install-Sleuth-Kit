@@ -13,11 +13,10 @@ Step 1. Download VirtualBox
 • Go to: https://www.virtualbox.org/
 • Click on the “Downloads” link in the left menu
 • Under VirtualBox x.x.x platform packages, click Windows hosts
-"Screenshot 2025-08-13 090008" src="https://github.com/user-attachments/assets/53c12425-a580-435b-871d-2c2adbd0a54e" />
-
+<img width="1920" height="1080" alt="Screenshot 2025-08-13 090008" src="https://github.com/user-attachments/assets/740c401e-6489-49ff-a3c8-db261d674952" />
 Step 2. Run the Installer
 • Locate the downloaded .exe file (usually in your Downloads folder)
-"Screenshot 2025-08-13 090303" src="https://github.com/user-attachments/assets/a953aab0-afca-473c-9bc3-5ca6add152d1" />
+
 
 • Double-click it to run the installer
 Step 3. Installer Wizard
