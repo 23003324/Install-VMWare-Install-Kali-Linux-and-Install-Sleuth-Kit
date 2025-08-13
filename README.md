@@ -5,7 +5,7 @@ To install VMware, set up Kali Linux as a virtual machine, and install Sleuth Ki
 
 ## DESIGN STEPS:
 
-### Step 1
+### INSTALLING VMware:
 Install VMware Workstation Player on your system and download the Kali Linux ISO from its official website.
 
 INSTALLING VMWARE:
@@ -127,7 +127,40 @@ Step 6: Use the Terminal in Kali Linux
 
 Open the terminal in Kali Linux and run the command sudo apt install sleuthkit to install Sleuth Kit.
 
-## PROGRAM:
+• Download Sleuth Kit from www.sleuthkit.org/sleuthkit/download.php
+<img width="1920" height="1080" alt="Screenshot 2025-08-13 132851" src="https://github.com/user-attachments/assets/9a7d2d72-a20d-4e8e-8252-608a4f42320b" />
+
+
+● Move the downloaded folder to the program files.
+
+● Go to the system environment variables.
+<img width="1920" height="1080" alt="Screenshot 2025-08-13 133017" src="https://github.com/user-attachments/assets/0f1df15b-3844-43f6-9150-8b2eff8a4e0e" />
+
+<img width="1920" height="1080" alt="Screenshot 2025-08-13 133252" src="https://github.com/user-attachments/assets/f83cddcb-55a9-4c21-bab9-ec48b8d16e3c" />
+
+● Click environment variables.
+<img width="1920" height="1080" alt="Screenshot 2025-08-13 133308" src="https://github.com/user-attachments/assets/6c84bc5c-036b-4a49-a3cf-2272d964cbdb" />
+
+
+● Click the path
+● Now add the sleuth kit folder address.
+● And the click ok. USING OF SLEUTH KIT:
+
+<img width="1478" height="747" alt="Screenshot 2025-08-13 081112" src="https://github.com/user-attachments/assets/1601c5c2-01c2-4ac5-b211-05b8b04e43d7" />
+
+● Open command prompt and type fls -V to check sleuth kit is installed or
+not.
+● Lists partition layout
+<img width="1920" height="1080" alt="Screenshot 2025-08-13 134030" src="https://github.com/user-attachments/assets/a37171a7-6324-4c35-a9b2-4d1f93ae3969" />
+
+
+
+● Lists files and directories
+<img width="1920" height="1080" alt="Screenshot 2025-08-13 134409" src="https://github.com/user-attachments/assets/63dabb80-af58-4fad-a754-58e6746a202d" />
+
+
+These are the some of the commands used in the Sleuth kit.
+
 
 ## OUTPUT:
 ```
