@@ -93,7 +93,7 @@ Step 4: Import Kali Linux into VirtualBox
 • Open VirtualBox
 
 • Click on File → Import Appliance
-<img width="1920" height="1080" alt="Screenshot 2025-08-13 093606" src="https://github.com/user-attachments/assets/4301bb10-8d4a-40e3-b9e5-bb2f55bba205" />
+
 
 
 • Click Choose, then browse to the extracted .vbox file
